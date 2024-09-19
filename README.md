@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Introduction
+#### This is a responsive and animated personal website based on `Next.js` and `Tailwind` CSS framework, which give a wonderful insight of your customized portfolio.
 
 ## Getting Started
 
@@ -28,6 +29,16 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
+## Animation
+
+The project was integreted with some animation tools to create various animations on your components to make your page more vivid.
+
+```bash
+npm install react-type-animation
+
+npm install framer-motion react-animated-numbers
+```
 
 ## Deploy on Vercel
 
