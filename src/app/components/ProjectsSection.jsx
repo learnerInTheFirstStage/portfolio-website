@@ -34,11 +34,11 @@ const projectsData = [
   },
   {
     id: 4,
-    title: "Food Ordering Application",
-    description: "Project 4 description",
+    title: "Simple E-commerce Shopping Platform",
+    description: "Simple version of E-commerce platform built with JavaScript",
     image: "/images/projects/4.png",
     tag: ["All", "Mobile"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/learnerInTheFirstStage/easy-e-commerce-platform",
     previewUrl: "/",
   },
   {
@@ -52,8 +52,8 @@ const projectsData = [
   },
   {
     id: 6,
-    title: "Full-stack Roadmap",
-    description: "Project 5 description",
+    title: "Full-stack Guide Tour Application",
+    description: "Guide Tour application with React, Node.js, and MongoDB",
     image: "/images/projects/6.png",
     tag: ["All", "Web"],
     gitUrl: "/",
